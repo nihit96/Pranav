@@ -15,6 +15,16 @@ class Calculator {
 		return Math.pow(a,b);
 	}
 	double mod(int a,int b){
+
+		return a%b};
+	int sum(int a ,int b)
+	{
+		return a+b;
+	}
+	System.Out.Println("Sum is :-" , sum(a,b));
+	System.Out.Println("Division is :-" , mod(a,b));
+}
+
 		return a%b;
 }
 static void Addition( int firstNumber, int secondNumber ) {
@@ -26,3 +36,4 @@ static void Addition( int firstNumber, int secondNumber ) {
         System.out.println("Substratcion = " + (firstNumber - secondNumber));
     }
 }
+
