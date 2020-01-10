@@ -1,1 +1,4 @@
-Class Calculator {}
+class Calculator {
+	public static void main(string[] args){
+		
+}
