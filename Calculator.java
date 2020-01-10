@@ -10,7 +10,7 @@ class Calculator {
     Addition(a,b);
     Substratcion(a,b);
 	}
-  int pow(int a ,int b)
+  static int pow(int a ,int b)
 	{
 		return Math.pow(a,b);
 	}
