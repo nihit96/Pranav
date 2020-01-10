@@ -19,4 +19,5 @@ class Calculator {
 		return a+b;
 	}
 	System.Out.Println("Sum is :-" , sum(a,b));
+	System.Out.Println("Division is :-" , mod(a,b));
 }
